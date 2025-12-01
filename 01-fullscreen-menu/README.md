@@ -26,7 +26,7 @@
 ## 🚀 本地运行
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/vue3-practice-collection.git
+git clone https://github.com/LOT-Junimos/vue3-practice-collection.git
 
 # 2. 进入当前练习文件夹
 cd vue3-practice-collection/01-fullscreen-menu
