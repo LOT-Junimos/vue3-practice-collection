@@ -29,7 +29,7 @@ https://vue3-practice-collection.vercel.app/
 
 ## 🚀 本地运行（可直接执行）
 ```bash
-# 1. 克隆仓库（替换成你的GitHub用户名）
+# 1. 克隆仓库
 git clone https://github.com/LOT-Junimos/vue3-practice-collection.git
 
 # 2. 进入当前练习文件夹
