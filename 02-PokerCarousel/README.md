@@ -2,7 +2,7 @@
 > 一个基于 Vue3 Composition API 实现的扑克牌堆叠轮播组件，点击顶部扑克牌触发轮播切换，模拟真实扑克牌递出的交互效果，支持无限循环和图片预加载优化。
 
 ## 🌐 在线预览
-https://vue3-practice-collection-poker-carousel.vercel.app/ 
+https://vue3-practice-collection-poker-caro.vercel.app/
 
 ## 🎯 功能亮点
 1. 堆叠布局设计：自定义旋转角度+偏移量，模拟扑克牌真实堆叠效果，旋转中心贴合物理逻辑
