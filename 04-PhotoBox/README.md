@@ -2,7 +2,7 @@
 > 一个基于 Vue3 + GSAP 实现的交互式照片墙组件，支持鼠标拖拽移动、缩放反馈、无限循环滚动，适配多屏幕尺寸
 
 ## 🌐 在线预览
-https://vue3-practice-collection-PB.vercel.app/
+https://vue3-practice-collection-pb.vercel.app/
 
 ## 🎯 功能亮点
 1. 拖拽交互核心：鼠标按下/释放/离开多状态联动，拖拽时照片墙跟随鼠标平滑移动
