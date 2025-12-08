@@ -36,40 +36,40 @@ import gsap from 'gsap'
 // 定义照片数据
 const photoRows = [
   [
-    { src: '/photos/homeshow (1).png' },
-    { src: '/photos/homeshow (2).png' },
-    { src: 'photos/homeshow (3).png' },
-    { src: '/photos/homeshow (4).png' },
-    { src: '/photos/homeshow (5).png' },
-    { src: '/photos/homeshow (6).png' },
-    { src: '/photos/homeshow (7).png' }
+    { src: '/photos/sweet(1).png' },
+    { src: '/photos/sweet(2).png' },
+    { src: '/photos/sweet(3).png' },
+    { src: '/photos/sweet(4).png' },
+    { src: '/photos/sweet(5).png' },
+    { src: '/photos/sweet(6).png' },
+    { src: '/photos/sweet(7).png' }
   ],
   [
-    { src: '/photos/homeshow (8).png' },
-    { src: '/photos/homeshow (9).png' },
-    { src: '/photos/homeshow (10).png' },
-    { src: '/photos/homeshow (11).png' },
-    { src: '/photos/homeshow (12).png' },
-    { src: '/photos/homeshow (13).png' },
-    { src: '/photos/homeshow (14).png' }
+    { src: '/photos/sweet(8).png' },
+    { src: '/photos/sweet(9).png' },
+    { src: '/photos/sweet(10).png' },
+    { src: '/photos/sweet(11).png' },
+    { src: '/photos/sweet(12).png' },
+    { src: '/photos/sweet(13).png' },
+    { src: '/photos/sweet(14).png' }
   ],
   [
-    { src: '/photos/homeshow (15).png' },
-    { src: '/photos/homeshow (16).png' },
-    { src: '/photos/homeshow (17).png' },
-    { src: '/photos/homeshow (18).png' },
-    { src: '/photos/homeshow (19).png' },
-    { src: '/photos/homeshow (20).png' },
-    { src: '/photos/homeshow (21).png' }
+    { src: '/photos/sweet(15).png' },
+    { src: '/photos/sweet(16).png' },
+    { src: '/photos/sweet(17).png' },
+    { src: '/photos/sweet(18).png' },
+    { src: '/photos/sweet(19).png' },
+    { src: '/photos/sweet(20).png' },
+    { src: '/photos/sweet(21).png' }
   ],
   [
-    { src: '/photos/homeshow (22).png' },
-    { src: '/photos/homeshow (23).png' },
-    { src: '/photos/homeshow (24).png' },
-    { src: '/photos/homeshow (25).png' },
-    { src: '/photos/homeshow (26).png' },
-    { src: '/photos/homeshow (27).png' },
-    { src: '/photos/homeshow (28).png' }
+    { src: '/photos/sweet(22).png' },
+    { src: '/photos/sweet(23).png' },
+    { src: '/photos/sweet(24).png' },
+    { src: '/photos/sweet(25).png' },
+    { src: '/photos/sweet(26).png' },
+    { src: '/photos/sweet(27).png' },
+    { src: '/photos/sweet(28).png' }
   ]
 ]
 
