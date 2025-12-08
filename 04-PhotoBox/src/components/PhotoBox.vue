@@ -21,7 +21,7 @@
         >
           <img
             :src="photo.src"
-            :alt="`homeshow-${rowIndex}-${photoIndex}`"
+            :alt="`sweet-${rowIndex}-${photoIndex}`"
           />
         </div>
       </div>
